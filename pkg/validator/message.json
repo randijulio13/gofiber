@@ -1,0 +1,6 @@
+{
+  "required": "%s is required",
+  "min": "%s minimal %s characters",
+  "max": "%s maximal %s characters",
+  "email": "%s is not a valid email address"
+}
